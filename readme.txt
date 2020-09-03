@@ -1,1 +1,0 @@
-This should automate the cleancheck process for apartments in Rexubrg Idaho. 
